@@ -1,0 +1,2411 @@
+{
+  "leads": [
+    {
+      "id": "1",
+      "name": "Gail Beahan",
+      "mobile": "9277469968",
+      "email": "matthew.cassin84@gmail.com",
+      "address": "4088 Emily Streets",
+      "courseInterested": "Angular",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Emma Thomas",
+      "status": "New",
+      "createdDate": "2026-06-11",
+      "notes": []
+    },
+    {
+      "id": "2",
+      "name": "Saul O'Kon IV",
+      "mobile": "9751072133",
+      "email": "bridgette_howe@yahoo.com",
+      "address": "452 Caesar Points",
+      "courseInterested": "DevOps",
+      "leadSource": "Referral",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Qualified",
+      "createdDate": "2026-04-27",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Bonnie Armstrong DVM",
+      "mobile": "9897519534",
+      "email": "janice_cole@yahoo.com",
+      "address": "79263 Erica Valleys",
+      "courseInterested": "AWS",
+      "leadSource": "Website",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Converted",
+      "createdDate": "2026-05-01",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Unique Kshlerin",
+      "mobile": "9769783981",
+      "email": "arden99@yahoo.com",
+      "address": "712 Cedar Road",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Google",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-06-05",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Shannon Christiansen",
+      "mobile": "9741378977",
+      "email": "lesly.marquardt@gmail.com",
+      "address": "41105 Theo Shore",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Contacted",
+      "createdDate": "2026-04-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Casimer Hagenes",
+      "mobile": "9832219161",
+      "email": "evert.wolf71@gmail.com",
+      "address": "45555 State Street",
+      "courseInterested": "DevOps",
+      "leadSource": "Google",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Contacted",
+      "createdDate": "2026-03-16",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Nicklaus Hilll",
+      "mobile": "9789058121",
+      "email": "faustino.olson@yahoo.com",
+      "address": "1529 Clarence Route",
+      "courseInterested": "AWS",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-06-27",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Dan Rodriguez MD",
+      "mobile": "9437828280",
+      "email": "harvey78@yahoo.com",
+      "address": "4274 Pound Lane",
+      "courseInterested": "Python",
+      "leadSource": "Referral",
+      "assignedEmployee": "David Wilson",
+      "status": "Follow Up",
+      "createdDate": "2026-03-17",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Leola Hodkiewicz",
+      "mobile": "9350275551",
+      "email": "lydia_lowe26@hotmail.com",
+      "address": "4595 Abby Rapids",
+      "courseInterested": "Java",
+      "leadSource": "Google",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Converted",
+      "createdDate": "2026-05-29",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Angelo Mraz",
+      "mobile": "9274956867",
+      "email": "dale61@gmail.com",
+      "address": "2944 Oliver Fork",
+      "courseInterested": "React",
+      "leadSource": "Website",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Converted",
+      "createdDate": "2026-05-29",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Brittany Huels",
+      "mobile": "9263146614",
+      "email": "jacquelyn_grady@hotmail.com",
+      "address": "2919 Henry Street",
+      "courseInterested": "AWS",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Bob Smith",
+      "status": "Follow Up",
+      "createdDate": "2026-03-22",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Felicia Bashirian V",
+      "mobile": "9213171333",
+      "email": "keith22@yahoo.com",
+      "address": "348 Robbie Springs",
+      "courseInterested": "AWS",
+      "leadSource": "Google",
+      "assignedEmployee": "Emma Thomas",
+      "status": "New",
+      "createdDate": "2026-03-20",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Halle McCullough",
+      "mobile": "9555042700",
+      "email": "laverna19@hotmail.com",
+      "address": "5808 Lebsack Manors",
+      "courseInterested": "Java",
+      "leadSource": "Google",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Follow Up",
+      "createdDate": "2026-04-28",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Ms. Rachael Paucek",
+      "mobile": "9376937580",
+      "email": "forrest75@gmail.com",
+      "address": "114 Veum Glens",
+      "courseInterested": "Python",
+      "leadSource": "Referral",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Qualified",
+      "createdDate": "2026-06-30",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Marley Welch Sr.",
+      "mobile": "9907063086",
+      "email": "yessenia72@yahoo.com",
+      "address": "198 Long Lane",
+      "courseInterested": "AWS",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-05-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Dr. Cristopher Nienow",
+      "mobile": "9147022452",
+      "email": "russell.morissette34@yahoo.com",
+      "address": "57768 Shelley Station",
+      "courseInterested": "React",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-03-19",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Noemi Daugherty",
+      "mobile": "9758338364",
+      "email": "willis_brekke22@hotmail.com",
+      "address": "41623 Calvin Fords",
+      "courseInterested": "Java",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Charlie Brown",
+      "status": "New",
+      "createdDate": "2026-04-11",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Leroy McCullough Sr.",
+      "mobile": "9212546631",
+      "email": "judy_hahn@hotmail.com",
+      "address": "312 4th Street",
+      "courseInterested": "DevOps",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-04-21",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Kristie Adams",
+      "mobile": "9756211044",
+      "email": "becky20@gmail.com",
+      "address": "624 Mustafa Points",
+      "courseInterested": "Angular",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Qualified",
+      "createdDate": "2026-05-28",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Priscilla MacGyver",
+      "mobile": "9359156022",
+      "email": "grady76@hotmail.com",
+      "address": "2765 Second Avenue",
+      "courseInterested": "Python",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-04-10",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Ebony Marks",
+      "mobile": "9305214873",
+      "email": "domingo.block67@gmail.com",
+      "address": "658 Ronald Course",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "David Wilson",
+      "status": "Closed",
+      "createdDate": "2026-03-19",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "River Botsford",
+      "mobile": "9932600491",
+      "email": "brandy.ernser70@gmail.com",
+      "address": "837 Jerry Parkways",
+      "courseInterested": "Node.js",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Bob Smith",
+      "status": "Follow Up",
+      "createdDate": "2026-06-10",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Mr. Rey Jacobson",
+      "mobile": "9693269230",
+      "email": "john.mueller50@gmail.com",
+      "address": "5269 Morissette Green",
+      "courseInterested": "Node.js",
+      "leadSource": "Website",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Follow Up",
+      "createdDate": "2026-05-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Ebony Boehm",
+      "mobile": "9011943266",
+      "email": "leann.fadel@gmail.com",
+      "address": "7157 W Division Street",
+      "courseInterested": "Python",
+      "leadSource": "Instagram",
+      "assignedEmployee": "David Wilson",
+      "status": "Closed",
+      "createdDate": "2026-05-05",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Ms. Samara Douglas",
+      "mobile": "9383547312",
+      "email": "julius.oconner@hotmail.com",
+      "address": "51863 Bernier Causeway",
+      "courseInterested": "Node.js",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Bob Smith",
+      "status": "Converted",
+      "createdDate": "2026-06-20",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Concepcion Lowe",
+      "mobile": "9478285067",
+      "email": "homer.bins@hotmail.com",
+      "address": "4390 Jacob Crest",
+      "courseInterested": "AWS",
+      "leadSource": "Google",
+      "assignedEmployee": "David Wilson",
+      "status": "New",
+      "createdDate": "2026-03-11",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Trinity Ziemann",
+      "mobile": "9039175915",
+      "email": "ian.cartwright-fisher18@yahoo.com",
+      "address": "1830 Greenholt Canyon",
+      "courseInterested": "DevOps",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Contacted",
+      "createdDate": "2026-06-10",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Jonathan Runolfsson",
+      "mobile": "9933744325",
+      "email": "ana72@hotmail.com",
+      "address": "52631 Cedar Street",
+      "courseInterested": "DevOps",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Bob Smith",
+      "status": "Qualified",
+      "createdDate": "2026-05-18",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "William Schmitt",
+      "mobile": "9451986356",
+      "email": "faye.abshire-douglas@hotmail.com",
+      "address": "947 Mill Close",
+      "courseInterested": "DevOps",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Qualified",
+      "createdDate": "2026-03-23",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Mitchell Pollich",
+      "mobile": "9263572931",
+      "email": "suzanne70@gmail.com",
+      "address": "615 Milford Mountain",
+      "courseInterested": "Node.js",
+      "leadSource": "Website",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-06-21",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Mr. Kali Smith II",
+      "mobile": "9858436280",
+      "email": "tara_kassulke39@hotmail.com",
+      "address": "1610 Heaney Landing",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Referral",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-07-05",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Anibal Cruickshank",
+      "mobile": "9793653820",
+      "email": "damian.cassin63@yahoo.com",
+      "address": "8402 Cumberland Street",
+      "courseInterested": "Angular",
+      "leadSource": "Website",
+      "assignedEmployee": "Charlie Brown",
+      "status": "New",
+      "createdDate": "2026-04-09",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Edgardo Fisher",
+      "mobile": "9373983973",
+      "email": "emie_effertz@gmail.com",
+      "address": "17803 Audrey Mill",
+      "courseInterested": "AWS",
+      "leadSource": "Referral",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Converted",
+      "createdDate": "2026-03-24",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Miss Kariane Bartoletti",
+      "mobile": "9685868744",
+      "email": "korey.konopelski@hotmail.com",
+      "address": "63849 Fatima Dam",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Contacted",
+      "createdDate": "2026-07-04",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Brett Paucek-Auer",
+      "mobile": "9525285682",
+      "email": "veronica_gislason27@hotmail.com",
+      "address": "75027 Michelle Ranch",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-06-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Cedrick Lakin",
+      "mobile": "9963758476",
+      "email": "rogelio_bernhard-daniel86@hotmail.com",
+      "address": "97928 William Island",
+      "courseInterested": "AWS",
+      "leadSource": "Referral",
+      "assignedEmployee": "David Wilson",
+      "status": "Converted",
+      "createdDate": "2026-03-17",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Lela Langworth",
+      "mobile": "9609522931",
+      "email": "wendell.hodkiewicz55@hotmail.com",
+      "address": "924 Elva Isle",
+      "courseInterested": "React",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Qualified",
+      "createdDate": "2026-05-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Noemie Kunde",
+      "mobile": "9846102172",
+      "email": "hubert_bernier20@yahoo.com",
+      "address": "61384 Anderson Fork",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-05-15",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Gabrielle Tremblay",
+      "mobile": "9016266130",
+      "email": "mose_parisian@hotmail.com",
+      "address": "2959 Windler Curve",
+      "courseInterested": "AWS",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Converted",
+      "createdDate": "2026-06-17",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Miss Carli Yundt",
+      "mobile": "9208020829",
+      "email": "sheryl_kuhic@hotmail.com",
+      "address": "822 Windermere Road",
+      "courseInterested": "Python",
+      "leadSource": "Google",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Closed",
+      "createdDate": "2026-06-16",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Ms. Kathleen Gibson",
+      "mobile": "9670461837",
+      "email": "erin37@gmail.com",
+      "address": "12573 Littel Rue",
+      "courseInterested": "Node.js",
+      "leadSource": "Referral",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Closed",
+      "createdDate": "2026-05-10",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Zion Rice",
+      "mobile": "9935610746",
+      "email": "wayne.dibbert71@gmail.com",
+      "address": "72561 Ethel Streets",
+      "courseInterested": "DevOps",
+      "leadSource": "Website",
+      "assignedEmployee": "David Wilson",
+      "status": "New",
+      "createdDate": "2026-03-24",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Ms. Angelica Stroman",
+      "mobile": "9287466262",
+      "email": "jeromy31@gmail.com",
+      "address": "847 Justice Keys",
+      "courseInterested": "Angular",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Bob Smith",
+      "status": "Closed",
+      "createdDate": "2026-03-31",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Turner Boyle",
+      "mobile": "9679457949",
+      "email": "emma_lind77@gmail.com",
+      "address": "561 Eldridge Coves",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Website",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Qualified",
+      "createdDate": "2026-03-10",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Kaleb Dibbert",
+      "mobile": "9957199290",
+      "email": "dianne.hoppe24@gmail.com",
+      "address": "2831 Adrien Union",
+      "courseInterested": "Java",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-04-23",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Mr. Roxane Kris",
+      "mobile": "9880927905",
+      "email": "emmett_kiehn71@hotmail.com",
+      "address": "7385 Lincoln Road",
+      "courseInterested": "DevOps",
+      "leadSource": "Google",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Contacted",
+      "createdDate": "2026-04-18",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Torey Hodkiewicz",
+      "mobile": "9756317785",
+      "email": "veronica.bechtelar22@hotmail.com",
+      "address": "419 Bernard Ridges",
+      "courseInterested": "AWS",
+      "leadSource": "Referral",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Converted",
+      "createdDate": "2026-03-13",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Kaleb Nolan",
+      "mobile": "9083112787",
+      "email": "bo.hackett@hotmail.com",
+      "address": "770 Harber Radial",
+      "courseInterested": "React",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Follow Up",
+      "createdDate": "2026-03-31",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Darby Blanda Sr.",
+      "mobile": "9617439310",
+      "email": "marcia_wolff7@hotmail.com",
+      "address": "9009 Grand Avenue",
+      "courseInterested": "Angular",
+      "leadSource": "Website",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Follow Up",
+      "createdDate": "2026-05-04",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Genesis Parker",
+      "mobile": "9383178996",
+      "email": "dayne_schimmel@gmail.com",
+      "address": "757 Bode Valley",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-05-18",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Cristina Pouros I",
+      "mobile": "9073985477",
+      "email": "augustus70@yahoo.com",
+      "address": "75539 Amos Union",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Google",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Follow Up",
+      "createdDate": "2026-06-30",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Judson Hahn",
+      "mobile": "9035776454",
+      "email": "dee87@gmail.com",
+      "address": "9687 Hattie Ferry",
+      "courseInterested": "AWS",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Follow Up",
+      "createdDate": "2026-05-09",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Domenick Oberbrunner",
+      "mobile": "9729968724",
+      "email": "eleanora.fisher@hotmail.com",
+      "address": "17459 Danielle Freeway",
+      "courseInterested": "AWS",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-04-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Mylene Gutkowski",
+      "mobile": "9459475980",
+      "email": "wilfred_orn8@gmail.com",
+      "address": "51118 Oak Lane",
+      "courseInterested": "Angular",
+      "leadSource": "Referral",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Contacted",
+      "createdDate": "2026-04-07",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Terrell Rempel",
+      "mobile": "9080949059",
+      "email": "cynthia_mccullough@yahoo.com",
+      "address": "33989 Ayla Oval",
+      "courseInterested": "Node.js",
+      "leadSource": "Facebook",
+      "assignedEmployee": "David Wilson",
+      "status": "Qualified",
+      "createdDate": "2026-04-15",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Lauretta Volkman",
+      "mobile": "9679603701",
+      "email": "freda.wilderman@hotmail.com",
+      "address": "80969 Reinger Viaduct",
+      "courseInterested": "Node.js",
+      "leadSource": "Referral",
+      "assignedEmployee": "David Wilson",
+      "status": "Closed",
+      "createdDate": "2026-03-18",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Ricky Medhurst",
+      "mobile": "9716575219",
+      "email": "sid.herman@yahoo.com",
+      "address": "842 Bailee Shoals",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Bob Smith",
+      "status": "Qualified",
+      "createdDate": "2026-04-05",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Dr. Eulah Murphy",
+      "mobile": "9486746398",
+      "email": "deangelo5@gmail.com",
+      "address": "1503 Elody Extensions",
+      "courseInterested": "AWS",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-05-31",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Leonard Welch",
+      "mobile": "9058733438",
+      "email": "christelle.beahan5@yahoo.com",
+      "address": "80041 Laura Terrace",
+      "courseInterested": "Angular",
+      "leadSource": "Referral",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Contacted",
+      "createdDate": "2026-06-09",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Carolina Davis",
+      "mobile": "9293088373",
+      "email": "cynthia_ankunding-legros81@yahoo.com",
+      "address": "52317 Wilderman Valley",
+      "courseInterested": "Java",
+      "leadSource": "Referral",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Contacted",
+      "createdDate": "2026-05-29",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Stephon Shanahan MD",
+      "mobile": "9510264951",
+      "email": "rosalia.powlowski@gmail.com",
+      "address": "2749 Evan Summit",
+      "courseInterested": "Angular",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Follow Up",
+      "createdDate": "2026-04-05",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Ms. Samantha Koch",
+      "mobile": "9176799608",
+      "email": "vena.bernhard30@yahoo.com",
+      "address": "5193 Gibson Crossroad",
+      "courseInterested": "Angular",
+      "leadSource": "Referral",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Converted",
+      "createdDate": "2026-04-24",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Ali Reilly",
+      "mobile": "9776887422",
+      "email": "maurice93@yahoo.com",
+      "address": "130 Center Road",
+      "courseInterested": "Java",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Bob Smith",
+      "status": "Converted",
+      "createdDate": "2026-03-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Seamus Bartell III",
+      "mobile": "9273015186",
+      "email": "sim_botsford@hotmail.com",
+      "address": "20041 Ana Rest",
+      "courseInterested": "DevOps",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Qualified",
+      "createdDate": "2026-03-25",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Meredith Farrell",
+      "mobile": "9392582679",
+      "email": "andre53@yahoo.com",
+      "address": "92545 E Church Street",
+      "courseInterested": "Java",
+      "leadSource": "Referral",
+      "assignedEmployee": "David Wilson",
+      "status": "Contacted",
+      "createdDate": "2026-06-07",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Victor Hayes",
+      "mobile": "9519587329",
+      "email": "owen51@yahoo.com",
+      "address": "213 Derby Road",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "Bob Smith",
+      "status": "Converted",
+      "createdDate": "2026-05-12",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Gerald Cummings",
+      "mobile": "9541214164",
+      "email": "rusty_rosenbaum@yahoo.com",
+      "address": "15094 Effertz Trail",
+      "courseInterested": "AWS",
+      "leadSource": "Website",
+      "assignedEmployee": "David Wilson",
+      "status": "Converted",
+      "createdDate": "2026-05-09",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Demarco Runolfsson",
+      "mobile": "9066686785",
+      "email": "krystina44@gmail.com",
+      "address": "96899 Birch Road",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Bob Smith",
+      "status": "Closed",
+      "createdDate": "2026-03-12",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Miss Elena Abernathy III",
+      "mobile": "9496397904",
+      "email": "candice.gutmann7@yahoo.com",
+      "address": "82462 Marta Fords",
+      "courseInterested": "Java",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "David Wilson",
+      "status": "Follow Up",
+      "createdDate": "2026-05-13",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Kayla Dibbert",
+      "mobile": "9780552474",
+      "email": "betty_hilpert52@gmail.com",
+      "address": "97282 Cross Street",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Website",
+      "assignedEmployee": "David Wilson",
+      "status": "Contacted",
+      "createdDate": "2026-03-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Valentine Gulgowski-Gerhold III",
+      "mobile": "9722704283",
+      "email": "darby64@yahoo.com",
+      "address": "5621 Middle Street",
+      "courseInterested": "React",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Converted",
+      "createdDate": "2026-06-15",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Bertha Bechtelar",
+      "mobile": "9064919097",
+      "email": "denise_bechtelar71@hotmail.com",
+      "address": "3880 Duke Street",
+      "courseInterested": "Python",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Converted",
+      "createdDate": "2026-05-24",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Angelo Swift",
+      "mobile": "9612597354",
+      "email": "colleen_welch@yahoo.com",
+      "address": "3575 Altenwerth Causeway",
+      "courseInterested": "Python",
+      "leadSource": "Google",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-03-14",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Tommie Feeney",
+      "mobile": "9370810603",
+      "email": "lester54@yahoo.com",
+      "address": "56998 Milton Road",
+      "courseInterested": "Node.js",
+      "leadSource": "Referral",
+      "assignedEmployee": "Bob Smith",
+      "status": "Follow Up",
+      "createdDate": "2026-06-20",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Dino Klocko",
+      "mobile": "9337538511",
+      "email": "patricia_wunsch61@hotmail.com",
+      "address": "72273 Macejkovic Flats",
+      "courseInterested": "DevOps",
+      "leadSource": "Google",
+      "assignedEmployee": "David Wilson",
+      "status": "Follow Up",
+      "createdDate": "2026-04-27",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Taryn MacGyver",
+      "mobile": "9415039726",
+      "email": "quincy.hagenes65@gmail.com",
+      "address": "8793 Clay Lane",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Closed",
+      "createdDate": "2026-04-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "Mariane Smitham",
+      "mobile": "9495406235",
+      "email": "abner15@gmail.com",
+      "address": "1241 Rosie Ridge",
+      "courseInterested": "Java",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Closed",
+      "createdDate": "2026-05-27",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "name": "Bridget Bode-Reynolds I",
+      "mobile": "9327064405",
+      "email": "terrence_funk35@hotmail.com",
+      "address": "501 Beaulah Drive",
+      "courseInterested": "React",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Follow Up",
+      "createdDate": "2026-05-20",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "name": "Mary Goldner",
+      "mobile": "9773724092",
+      "email": "priscilla_romaguera@yahoo.com",
+      "address": "500 Edgar Extension",
+      "courseInterested": "Node.js",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Emma Thomas",
+      "status": "New",
+      "createdDate": "2026-04-30",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Woodrow Boyer",
+      "mobile": "9146457860",
+      "email": "ginger.weissnat@gmail.com",
+      "address": "6542 Nicole Turnpike",
+      "courseInterested": "Node.js",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Closed",
+      "createdDate": "2026-04-06",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Gussie Jenkins",
+      "mobile": "9845206810",
+      "email": "elenora28@gmail.com",
+      "address": "8271 Elmira Junction",
+      "courseInterested": "AWS",
+      "leadSource": "Instagram",
+      "assignedEmployee": "David Wilson",
+      "status": "Converted",
+      "createdDate": "2026-07-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Ronald Hills",
+      "mobile": "9428981380",
+      "email": "opal.franecki@gmail.com",
+      "address": "9023 Cordelia Union",
+      "courseInterested": "Node.js",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Contacted",
+      "createdDate": "2026-05-10",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "Jacques Kreiger",
+      "mobile": "9326924533",
+      "email": "ivan_stanton6@yahoo.com",
+      "address": "728 Senger-Zemlak Shores",
+      "courseInterested": "React",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Converted",
+      "createdDate": "2026-03-14",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Jules Kirlin",
+      "mobile": "9631982351",
+      "email": "rodolfo_bauch@hotmail.com",
+      "address": "30397 Kestrel Close",
+      "courseInterested": "Java",
+      "leadSource": "Google",
+      "assignedEmployee": "Bob Smith",
+      "status": "New",
+      "createdDate": "2026-05-26",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "name": "Haley Runolfsson",
+      "mobile": "9480563492",
+      "email": "domenic.muller@gmail.com",
+      "address": "8856 Neal Shoal",
+      "courseInterested": "Spring Boot",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Follow Up",
+      "createdDate": "2026-04-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "name": "Linda Feil",
+      "mobile": "9305674273",
+      "email": "frieda_heathcote17@hotmail.com",
+      "address": "27147 E Cedar Street",
+      "courseInterested": "Angular",
+      "leadSource": "Google",
+      "assignedEmployee": "David Wilson",
+      "status": "Closed",
+      "createdDate": "2026-04-02",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "Demarcus Barrows",
+      "mobile": "9677451468",
+      "email": "madeline_roob@gmail.com",
+      "address": "822 Johanna Keys",
+      "courseInterested": "React",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Qualified",
+      "createdDate": "2026-06-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "Kaya Mitchell",
+      "mobile": "9456854592",
+      "email": "zechariah32@hotmail.com",
+      "address": "77339 Sauer Oval",
+      "courseInterested": "Java",
+      "leadSource": "Website",
+      "assignedEmployee": "Bob Smith",
+      "status": "Qualified",
+      "createdDate": "2026-05-23",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Eddie Altenwerth",
+      "mobile": "9791620775",
+      "email": "may_blanda88@hotmail.com",
+      "address": "1930 Nora Wall",
+      "courseInterested": "Angular",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Contacted",
+      "createdDate": "2026-06-13",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "name": "Dwight Cassin",
+      "mobile": "9600686170",
+      "email": "blanca_goodwin67@yahoo.com",
+      "address": "696 Patricia Heights",
+      "courseInterested": "Python",
+      "leadSource": "Website",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Follow Up",
+      "createdDate": "2026-06-21",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "Glenn Witting IV",
+      "mobile": "9688716925",
+      "email": "toby_cassin87@gmail.com",
+      "address": "89073 Brook Street",
+      "courseInterested": "React",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Bob Smith",
+      "status": "New",
+      "createdDate": "2026-05-03",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Yvonne Schneider",
+      "mobile": "9748894160",
+      "email": "ruth1@gmail.com",
+      "address": "7034 Roy Rapid",
+      "courseInterested": "Python",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Bob Smith",
+      "status": "New",
+      "createdDate": "2026-04-02",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "Giovani Bogisich",
+      "mobile": "9192005214",
+      "email": "leon.morissette14@gmail.com",
+      "address": "90010 Oak Lane",
+      "courseInterested": "Java",
+      "leadSource": "Referral",
+      "assignedEmployee": "David Wilson",
+      "status": "New",
+      "createdDate": "2026-06-01",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "name": "Moses Osinski",
+      "mobile": "9062263617",
+      "email": "helen_grady44@gmail.com",
+      "address": "672 N Pearl Street",
+      "courseInterested": "AWS",
+      "leadSource": "Google",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Contacted",
+      "createdDate": "2026-05-12",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Jonas Tromp",
+      "mobile": "9459074688",
+      "email": "wilfrid.rowe@gmail.com",
+      "address": "5011 2nd Avenue",
+      "courseInterested": "DevOps",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Qualified",
+      "createdDate": "2026-05-17",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "name": "Charles Cronin",
+      "mobile": "9212300584",
+      "email": "elbert26@hotmail.com",
+      "address": "69310 E South Street",
+      "courseInterested": "DevOps",
+      "leadSource": "Referral",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-06-22",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Dewey Schiller",
+      "mobile": "9796025969",
+      "email": "lucile9@gmail.com",
+      "address": "8037 Diana Land",
+      "courseInterested": "React",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Bob Smith",
+      "status": "Closed",
+      "createdDate": "2026-06-12",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "Maryann Herzog",
+      "mobile": "9576863586",
+      "email": "margie15@gmail.com",
+      "address": "2532 Henri Fords",
+      "courseInterested": "Python",
+      "leadSource": "Referral",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-03-13",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "Sydnie Bradtke",
+      "mobile": "9676983300",
+      "email": "nellie88@gmail.com",
+      "address": "96196 St Andrews Close",
+      "courseInterested": "AWS",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Bob Smith",
+      "status": "Qualified",
+      "createdDate": "2026-05-16",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Mr. Gerald McClure",
+      "mobile": "9332628475",
+      "email": "patricia.cormier-watsica@gmail.com",
+      "address": "6564 Ola Mission",
+      "courseInterested": "Angular",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Follow Up",
+      "createdDate": "2026-04-29",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "name": "Christine Gislason",
+      "mobile": "9100687081",
+      "email": "lyla_rolfson@yahoo.com",
+      "address": "62824 Robyn Tunnel",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Referral",
+      "assignedEmployee": "David Wilson",
+      "status": "Converted",
+      "createdDate": "2026-04-22",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Patty Ward",
+      "mobile": "9484150850",
+      "email": "aglae_armstrong@hotmail.com",
+      "address": "14612 Heath Road",
+      "courseInterested": "Python",
+      "leadSource": "Google",
+      "assignedEmployee": "Charlie Brown",
+      "status": "New",
+      "createdDate": "2026-04-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Sonya Howe",
+      "mobile": "9172717256",
+      "email": "daisha_beahan@hotmail.com",
+      "address": "3183 W Broadway",
+      "courseInterested": "Node.js",
+      "leadSource": "Referral",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Qualified",
+      "createdDate": "2026-06-16",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Sara Aufderhar",
+      "mobile": "9285435626",
+      "email": "delilah.jakubowski1@gmail.com",
+      "address": "1168 Hermann Expressway",
+      "courseInterested": "React",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Converted",
+      "createdDate": "2026-05-17",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Cristina Schuster-DuBuque",
+      "mobile": "9301226662",
+      "email": "darryl.corkery28@yahoo.com",
+      "address": "4977 Rippin Lock",
+      "courseInterested": "Node.js",
+      "leadSource": "Referral",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Qualified",
+      "createdDate": "2026-04-01",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Tom Jakubowski DVM",
+      "mobile": "9610970304",
+      "email": "joy9@hotmail.com",
+      "address": "40128 Mohr Villages",
+      "courseInterested": "React",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Converted",
+      "createdDate": "2026-05-19",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Fannie Spinka-Rohan",
+      "mobile": "9773990486",
+      "email": "toni_jacobi@yahoo.com",
+      "address": "946 E Jefferson Street",
+      "courseInterested": "DevOps",
+      "leadSource": "Referral",
+      "assignedEmployee": "Charlie Brown",
+      "status": "New",
+      "createdDate": "2026-06-19",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Israel Ledner",
+      "mobile": "9089906101",
+      "email": "vaughn_schneider24@yahoo.com",
+      "address": "5993 Collier Shoal",
+      "courseInterested": "Node.js",
+      "leadSource": "Website",
+      "assignedEmployee": "Charlie Brown",
+      "status": "New",
+      "createdDate": "2026-04-02",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Imani Gleichner",
+      "mobile": "9502772270",
+      "email": "chris.schmitt@hotmail.com",
+      "address": "2292 Grange Avenue",
+      "courseInterested": "Spring Boot",
+      "leadSource": "Referral",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Qualified",
+      "createdDate": "2026-03-18",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Marcel Kuhlman",
+      "mobile": "9680901765",
+      "email": "dallas.witting17@yahoo.com",
+      "address": "12622 Annamarie Route",
+      "courseInterested": "Node.js",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-04-12",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "name": "Tabitha Walsh I",
+      "mobile": "9530136275",
+      "email": "emilie0@gmail.com",
+      "address": "34162 Genesis Drives",
+      "courseInterested": "Node.js",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Qualified",
+      "createdDate": "2026-07-01",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Imani Keebler",
+      "mobile": "9403524954",
+      "email": "thomas45@yahoo.com",
+      "address": "42025 Lindsay Extension",
+      "courseInterested": "Node.js",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Bob Smith",
+      "status": "Contacted",
+      "createdDate": "2026-06-16",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Catalina Schowalter",
+      "mobile": "9583429870",
+      "email": "daniella.swaniawski54@yahoo.com",
+      "address": "47927 Sipes Ramp",
+      "courseInterested": "React",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Converted",
+      "createdDate": "2026-04-18",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "name": "Bobby Satterfield",
+      "mobile": "9583395467",
+      "email": "rex_mraz@gmail.com",
+      "address": "173 Pacocha Fall",
+      "courseInterested": "AWS",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "David Wilson",
+      "status": "Contacted",
+      "createdDate": "2026-06-13",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "name": "Granville Becker",
+      "mobile": "9171754776",
+      "email": "wilfred4@gmail.com",
+      "address": "491 Bartoletti Land",
+      "courseInterested": "React",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Charlie Brown",
+      "status": "Qualified",
+      "createdDate": "2026-05-28",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Miss Dixie Hermann-Heidenreich",
+      "mobile": "9548857608",
+      "email": "modesta.pollich4@hotmail.com",
+      "address": "949 Cletus Walks",
+      "courseInterested": "AWS",
+      "leadSource": "Google",
+      "assignedEmployee": "Charlie Brown",
+      "status": "New",
+      "createdDate": "2026-06-02",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "name": "Santiago Waters",
+      "mobile": "9251377920",
+      "email": "bailee.kohler46@yahoo.com",
+      "address": "1462 King's Road",
+      "courseInterested": "React",
+      "leadSource": "Walk-In",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Follow Up",
+      "createdDate": "2026-03-08",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "name": "Elena Ebert",
+      "mobile": "9443139774",
+      "email": "marilyn44@gmail.com",
+      "address": "52480 Bret Greens",
+      "courseInterested": "Java",
+      "leadSource": "Instagram",
+      "assignedEmployee": "Bob Smith",
+      "status": "Follow Up",
+      "createdDate": "2026-05-04",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "name": "Suzanne Flatley",
+      "mobile": "9955569294",
+      "email": "kelly.casper@yahoo.com",
+      "address": "4536 Trantow Terrace",
+      "courseInterested": "AWS",
+      "leadSource": "Website",
+      "assignedEmployee": "Emma Thomas",
+      "status": "Qualified",
+      "createdDate": "2026-06-29",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "name": "Lori Stark",
+      "mobile": "9019074246",
+      "email": "gideon_fritsch@gmail.com",
+      "address": "155 E 1st Street",
+      "courseInterested": "Python",
+      "leadSource": "Facebook",
+      "assignedEmployee": "Alice Johnson",
+      "status": "Closed",
+      "createdDate": "2026-06-07",
+      "notes": [
+        {
+          "id": 1,
+          "note": "Initial enquiry received.",
+          "createdBy": "Admin",
+          "createdDate": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "name": "Rahul Sharma",
+      "mobile": "9876543210",
+      "email": "rahul.sharma@gmail.com",
+      "address": "Bangalore, Karnataka",
+      "courseInterested": "Full Stack Java Development",
+      "leadSource": "Website",
+      "assignedEmployee": "Alice Johnson",
+      "status": "New",
+      "createdDate": "2026-07-06",
+      "notes": [],
+      "id": "9nRWQyJU16s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
